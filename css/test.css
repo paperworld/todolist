@@ -1,0 +1,28 @@
+.todolist {
+  margin: 50px auto;
+  color: #333;
+  width: 800px;
+}
+.todolist .topad {
+  font-size: 30px;
+  background-color: #5fcfbe;
+  text-align: center;
+}
+.todolist .addlist p {
+  font-size: 20px;
+}
+.todolist .text {
+  font-size: 16px;
+}
+.todolist .taskitem {
+  color: #8f8f8f;
+  font-size: 16px;
+  text-decoration: line-through;
+}
+.todolist .editor {
+  width: 80%;
+  font-size: 12px;
+}
+li {
+  list-style: none;
+}
